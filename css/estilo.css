@@ -13,6 +13,16 @@ section {
     min-height: 100vh;
 }
 
+section#contato {
+    min-height: 80vh;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: url(../imgs/bgslider.png);
+}
+
 .navbar-brand {
     font-weight: 700;
 }
@@ -70,4 +80,12 @@ img.grayscale:hover {
 
 .portfolio_row:last-child {
     margin-bottom: 0;
+}
+
+.contato textarea {
+    height: 170px;
+}
+
+.contato .aviso {
+    padding: 15px;
 }
