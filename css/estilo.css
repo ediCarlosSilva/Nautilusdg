@@ -89,3 +89,16 @@ img.grayscale:hover {
 .contato .aviso {
     padding: 15px;
 }
+
+.form-login {
+    max-width: 350px;
+    background: #eee;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.form-login input {
+    margin-bottom: 10px;
+}
