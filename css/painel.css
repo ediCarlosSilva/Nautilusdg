@@ -1,5 +1,4 @@
 body {
+    background: url(../imgs/old_moon.png);   
     padding-top: 80px;
-    /* background: url(../imgs/vertical-waves.png); */
-    background: url(../imgs/old_moon.png);
 }
